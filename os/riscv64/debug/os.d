@@ -1,1 +1,1 @@
-/os/target/debug/os: /os/src/main.rs
+/mnt/os/target/debug/os: /mnt/os/src/main.rs
